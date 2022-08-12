@@ -58,3 +58,4 @@ public class StrRev {
 	
            }
 	       }
+// Thease are the approach for String to be reversed
